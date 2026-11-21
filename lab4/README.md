@@ -42,8 +42,8 @@
 
 1. **Клонуйте репозиторій та перейдіть до папки `lab4`:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<ваш-логін>/MobileLabsRN2026.git
-   cd MobileLabsRN2026/lab4
+   git clone https://github.com/ipz243kmo/Mobile/lab4
+   cd Mobile/lab4
    ```
 2. **Встановіть залежності:**
    ```bash
